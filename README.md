@@ -1,4 +1,4 @@
-## PV-Multi-Defect
+## PV-Multi-Defect Dataset
 ---
 ### Description of the file structure
 The JPEGImages folder holds the image files and the Annotations folder holds the label files.
