@@ -1,5 +1,6 @@
 ## PV-Multi-Defect Dataset
 ---
+Research work based on this database has been submitted to 'Electronics', and the manuscript is titled "GBH-YOLOv5: Ghost convolution with BottleneckCSP and tiny target prediction Head incorporating YOLOv5 for PV paneldefect detection"
 
 ### Citations
 @article{Li2023,<br>
@@ -17,9 +18,6 @@
       doi = {10.3390/electronics12030561},<br>
       copyright = {http://creativecommons.org/licenses/by/3.0/},<br>
       }<br>
----
-
-Research work based on this database has been submitted to 'Electronics', and the manuscript is titled "GBH-YOLOv5: Ghost convolution with BottleneckCSP and tiny target prediction Head incorporating YOLOv5 for PV paneldefect detection"
 
 ### Description of the file structure
 The JPEGImages folder holds the image files and the Annotations folder holds the label files.
