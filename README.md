@@ -1,5 +1,24 @@
 ## PV-Multi-Defect Dataset
 ---
+
+### Citations
+@article{Li2023,<br>
+  title = {GBH-YOLOv5: Ghost Convolution with BottleneckCSP and Tiny Target Prediction Head Incorporating YOLOv5 for PV Panel Defect Detection},<br>
+      shorttitle = {GBH-YOLOv5},<br>
+      author = {Li, Longlong and Wang, Zhifeng and Zhang, Tingting},<br>
+      year = {2023},<br>
+      month = jan,<br>
+      journal = {Electronics},<br>
+      volume = {12},<br>
+      number = {3},<br>
+      pages = {1--15},<br>
+      publisher = {Multidisciplinary Digital Publishing Institute},<br>
+      issn = {2079-9292},<br>
+      doi = {10.3390/electronics12030561},<br>
+      copyright = {http://creativecommons.org/licenses/by/3.0/},<br>
+      }<br>
+---
+
 Research work based on this database has been submitted to 'Electronics', and the manuscript is titled "GBH-YOLOv5: Ghost convolution with BottleneckCSP and tiny target prediction Head incorporating YOLOv5 for PV paneldefect detection"
 
 ### Description of the file structure
