@@ -17,7 +17,9 @@ Research work based on this database has been submitted to 'Electronics', and th
       issn = {2079-9292},<br>
       doi = {10.3390/electronics12030561},<br>
       copyright = {http://creativecommons.org/licenses/by/3.0/},<br>
-      }<br>
+      }<be>
+
+Li, L., Wang, Z., & Zhang, T. (2023). GBH-YOLOv5: Ghost Convolution with BottleneckCSP and Tiny Target Prediction Head Incorporating YOLOv5 for PV Panel Defect Detection. Electronics, 12(3), Article 3. https://doi.org/10.3390/electronics12030561
 
 ### Description of the file structure
 The JPEGImages folder holds the image files and the Annotations folder holds the label files.
